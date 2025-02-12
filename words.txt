@@ -1,0 +1,12 @@
+1,correct,girl,panda,tree,dog
+1,incorrect,gyrl,panda,trop,dog
+2,correct,tram,farm,help,shop
+2,incorrect,terg,farm,hilp,shyp
+3,correct,jump,rain,worm,dark
+3,incorrect,jump,roim,warm,durh
+4,correct,pull,draw,fork,kick
+4,incorrect,pull,yruw,fjrc,kick
+5,correct,harsh,storm,spoon,light
+5,incorrect,hyrth,storm,spuun,light
+6,correct,green,viola,flour,drain
+6,incorrect,green,vaeph,flour,dyyyn

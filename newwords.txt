@@ -1,0 +1,12 @@
+1,correct,apple,banana,cat,dog
+1,incorrect,applz,banano,kat,dog
+2,correct,house,car,tree,book
+2,incorrect,housz,car,tres,booc
+3,correct,water,fire,earth,wind
+3,incorrect,watir,fira,earth,wind
+4,correct,phone,computer,mouse,keyboard
+4,incorrect,phona,computar,mousa,keyboord
+5,correct,table,chair,window,door
+5,incorrect,tabli,chaer,windou,doar
+6,correct,flower,grass,sky,cloud
+6,incorrect,flowar,gras,sky,cload
